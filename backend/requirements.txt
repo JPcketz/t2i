@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+torch --extra-index-url https://download.pytorch.org/whl/cu121
+diffusers
+transformers
+accelerate
+safetensors
+Pillow
